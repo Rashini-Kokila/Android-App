@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">stop-watch</string>
+    <string name="value1">Start Now</string>
+    <string name="value2">Finish Workout</string>
+    <string name="value3">Live Healthy</string>
+    <string name="value4">Your Health is an Investment \nNot Expense</string>
+    <string name="value5">Get Started</string>
+    <string name="value6">Reset</string>
+</resources>
